@@ -4,7 +4,7 @@ const Sidebar = () => {
 
   const Divider = () => <hr className='border-t-[0.1] border-gray-900' />
   return (
-    <div className="text-gray-500 px-5 pt-5 pb-36 text-xs border-gray-900 h-screen overflow-y-scroll sm:max-w-[12rem] lg:max-w-[15rem] hidden md:block ">
+    <div className="text-gray-500 px-5 pt-5 pb-36 text-xs border-gray-900 h-screen overflow-y-scroll scrollbar-hidden sm:max-w-[12rem] lg:max-w-[15rem] hidden md:block ">
       <div className="space-y-4">
        <IconButton icon={HomeIcon} label='Home'/>
        <IconButton icon={MagnifyingGlassCircleIcon} label='Search'/>
@@ -36,6 +36,61 @@ const Sidebar = () => {
        <p className="cursor-pointer hover:text-white ">
         PLAYLIST
        </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       <p className="cursor-pointer hover:text-white ">
+        PLAYLIST
+       </p>
+       
       </div>
     </div>
   );
